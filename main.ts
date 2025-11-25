@@ -14,7 +14,7 @@ const NUMBER3: number = 85;
 
 // PROCESS
 // calculate the sum
-let answer: number = NUMBER1 + NUMBER2 + NUMBER3;
+const ANSWER: number = NUMBER1 + NUMBER2 + NUMBER3;
 
 // OUTPUT
 // display the result
@@ -26,7 +26,7 @@ console.log(
   " + " +
   NUMBER3 +
   " is: " +
-  answer
+  ANSWER
 );
 
 console.log("\nDone.");
